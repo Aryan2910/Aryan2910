@@ -34,7 +34,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Aryan2910/Aryan2910/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan2910/Aryan2910/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan2910/Aryan2910/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aryan2910/Aryan2910/output/github-contribution-grid-snake.svg">
   <br/><br/><br/>
 </div>
 

@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aryan2910.Aryan2910" />                                            
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Singh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hej+There!+👋;+I'm+Aryan+Singh!;" />
 </h1>
 
 <h3 align="center">A passionate ASIC developer from India 🇮🇳 stuyding in Sweden 🇸🇪</h3>

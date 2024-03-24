@@ -47,7 +47,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aryan2910&theme=radical&card_width=200" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aryan2910&theme=radical&card_width=200&border_radius=10"" alt="GitHub Streak" /></a>
   <img card_width=200 src="https://github-readme-stats.vercel.app/api?username=aryan2910&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
 
 

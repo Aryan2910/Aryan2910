@@ -12,7 +12,7 @@
  
  👨🏻‍💻 Ongoing project **Low Power MCU for Edge Computing**
  
- 🧠 I’m currently learning **Digital signal processing techniques, TCL scripting, and about PULP system**
+ 🧠 I’m currently learning **Digital signal processing techniques, shell scripting, and about PULP system**
 
  💡 I’m looking to collaborate on **Massive MIMO projects**
 

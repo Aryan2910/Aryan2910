@@ -18,7 +18,8 @@
 
  🔋 Hobbies **Cycling, Poetry and playing Guitar**
 
- 🙃 Joke of the month **$ pip install devin**
+ 🙃 Joke of the month **Why was the free electron so sad?
+It had nothing to be positive about!**
 
  </div>
  

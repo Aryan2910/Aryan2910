@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 👨🏻‍💻 Ongoing project **Low Power MCU for Edge Computing**
+ 👨🏻‍💻 Ongoing project **Hardware implementation for KAN ALGO.**
  
- 🧠 I’m currently learning **Digital signal processing techniques, shell scripting, and about PULP system**
+ 🧠 I’m currently learning **Machine learning, UVM/Formal verification techniques**
 
- 💡 I’m looking to collaborate on **Massive MIMO projects**
+ 💡 I’m looking to collaborate on **RISC V projects**
 
  🔋 Hobbies **Cycling, Poetry and playing Guitar**
 

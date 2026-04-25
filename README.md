@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 👨🏻‍💻 Ongoing project **Hardware implementation for KAN ALGO.**
+ 👨🏻‍💻 Ongoing project **Pixiecam using Pi zero**
  
- 🧠 I’m currently learning **Machine learning, UVM/Formal verification techniques**
+ 🧠 I’m currently learning **SystemC & UVM with systemverilog**
 
  💡 I’m looking to collaborate on **RISC V projects**
 
